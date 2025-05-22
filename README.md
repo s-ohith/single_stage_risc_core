@@ -25,6 +25,8 @@ Parameterized memory and instruction width
 🔧 Core Modules Description
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+![image](https://github.com/user-attachments/assets/7023c9ab-38ca-4273-8b02-721c16c21a16)
+
 PC (pc.v)
 The Program Counter module holds the address of the current instruction and updates it every clock cycle. It supports sequential execution and can be redirected for branching or jumping.
 
